@@ -4,9 +4,6 @@
 [submodule "query2form"]
 	path = query2form
 	url = git@github.com:Fabricatorz/query2form.git
-[submodule "url2shurl"]
-	path = url2shurl
-	url = git@github.com:Fabricatorz/url2shurl.git
 [submodule "query2email"]
 	path = query2email
 	url = git@github.com:Fabricatorz/query2email.git
