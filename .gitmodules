@@ -1,0 +1,21 @@
+[submodule "lib"]
+	path = lib
+	url = git@github.com:Fabricatorz/service2lib.git
+[submodule "query2form"]
+	path = query2form
+	url = git@github.com:Fabricatorz/query2form.git
+[submodule "url2shurl"]
+	path = url2shurl
+	url = git@github.com:Fabricatorz/url2shurl.git
+[submodule "query2email"]
+	path = query2email
+	url = git@github.com:Fabricatorz/query2email.git
+[submodule "query2update"]
+	path = query2update
+	url = git@github.com:Fabricatorz/query2update.git
+[submodule "query2view"]
+	path = query2view
+	url = git@github.com:Fabricatorz/query2view.git
+[submodule "query2rss"]
+	path = query2rss
+	url = git@github.com:Fabricatorz/query2rss.git
