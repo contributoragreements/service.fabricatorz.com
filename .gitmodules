@@ -16,3 +16,9 @@
 [submodule "query2rss"]
 	path = query2rss
 	url = git@github.com:Fabricatorz/query2rss.git
+[submodule "u2s"]
+	path = u2s
+	url = git@github.com:Fabricatorz/url2shurl.git
+[submodule "html2pdf"]
+	path = html2pdf
+	url = git@github.com:Fabricatorz/html2pdf.git
