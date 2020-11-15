@@ -13,9 +13,6 @@
 [submodule "query2view"]
 	path = query2view
 	url = https://github.com/contributoragreements/query2view.git
-[submodule "query2rss"]
-	path = query2rss
-	url = git@github.com:contributoragreements/query2rss.git
 [submodule "u2s"]
 	path = u2s
 	url = https://github.com/contributoragreements/u2s.git
