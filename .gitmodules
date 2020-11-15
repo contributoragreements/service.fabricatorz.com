@@ -1,24 +1,24 @@
 [submodule "lib"]
 	path = lib
-	url = git@github.com:Fabricatorz/service2lib.git
+	url = git@github.com:contributoragreements/service2lib.git
 [submodule "query2form"]
 	path = query2form
-	url = git@github.com:Fabricatorz/query2form.git
+	url = git@github.com:contributoragreements/query2form.git
 [submodule "query2email"]
 	path = query2email
-	url = git@github.com:Fabricatorz/query2email.git
+	url = git@github.com:contributoragreements/query2email.git
 [submodule "query2update"]
 	path = query2update
-	url = git@github.com:Fabricatorz/query2update.git
+	url = git@github.com:contributoragreements/query2update.git
 [submodule "query2view"]
 	path = query2view
-	url = git@github.com:Fabricatorz/query2view.git
+	url = git@github.com:contributoragreements/query2view.git
 [submodule "query2rss"]
 	path = query2rss
-	url = git@github.com:Fabricatorz/query2rss.git
+	url = git@github.com:contributoragreements/query2rss.git
 [submodule "u2s"]
 	path = u2s
-	url = git@github.com:Fabricatorz/url2shurl.git
+	url = https://github.com/contributoragreements/u2s.git
 [submodule "html2pdf"]
 	path = html2pdf
-	url = git@github.com:Fabricatorz/html2pdf.git
+	url = git@github.com:contributoragreements/html2pdf.git
